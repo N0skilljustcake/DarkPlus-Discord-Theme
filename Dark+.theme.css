@@ -18,9 +18,9 @@
   --darkplus-sec: #2b77f0;
   --darkplus-links: #2b77f0;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/943185248999604265/1129469733981401248/blue_discord.png);
- --watermark-filter-invert: 0;
-  --watermark-filter-sepia: 0;
-  --watermark-filter-saturate: 0;
+ --watermark-filter-invert: 50%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 50%;
   --watermark-filter-hue-rotate: 210deg;
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 20%;
