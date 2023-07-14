@@ -14,8 +14,8 @@
 
 :root {
   --darkplus-bg: #212121;
-  --darkplus-bg2: #212121;
-  --darkplus-sec: #2369d9;
+  --darkplus-bg2: #2b77f0;
+  --darkplus-sec: #2b77f0;
   --darkplus-links: #2369d9;
   --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/943185248999604265/1129469733981401248/blue_discord.png);
  --watermark-filter-invert: 0;
@@ -24,5 +24,5 @@
   --watermark-filter-hue-rotate: 210deg;
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 20%;
-  --darkplus-emoji-picker-color: 160deg;
+  --darkplus-emoji-picker-color: 170deg;
 }
