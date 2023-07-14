@@ -15,14 +15,14 @@
 :root {
   --darkplus-bg: #212121;
   --darkplus-bg2: #212121;
-  --darkplus-sec: #8d0606;
-  --darkplus-links: #8d0606;
-  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/943185248999604265/1129462445476434000/rip_eyes_red_discord.png);
+  --darkplus-sec: #134eac;
+  --darkplus-links: #134eac;
+  --darkplus-home-icon: url(https://cdn.discordapp.com/attachments/943185248999604265/1129469733981401248/blue_discord.png);
  --watermark-filter-invert: 0;
   --watermark-filter-sepia: 0;
   --watermark-filter-saturate: 0;
   --watermark-filter-hue-rotate: 210deg;
   --watermark-filter-brightness: 70%;
   --watermark-filter-contrast: 20%;
-  --darkplus-emoji-picker-color: 0deg;
+  --darkplus-emoji-picker-color: 235deg;
 }
